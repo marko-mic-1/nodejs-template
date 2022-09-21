@@ -1,7 +1,7 @@
 name: Node.js
 description: Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript engine.
 logo: https://microtica.s3.eu-central-1.amazonaws.com/assets/templates/logos/nodejs.png
-repo: https://github.com/microtica/templates/tree/master/nodejs
+repo: https://github.com/marko-mic-1/nodejs-template
 
 inputs:
   properties:
